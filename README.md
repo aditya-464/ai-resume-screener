@@ -10,7 +10,6 @@ A **Generative AI-powered Resume Screening tool** that automatically ranks resum
 - Automatically rank resumes based on **job description relevance**  
 - Uses **sentence-transformers** for semantic similarity  
 - Simple **React + Vite** frontend for uploading files and viewing results  
-- Minimalistic, **no CSS/UI frameworks**  
 
 ---
 
