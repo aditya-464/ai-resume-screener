@@ -1,0 +1,6 @@
+flask>=2.0
+werkzeug
+sentence-transformers>=2.2.2
+scikit-learn
+pypdf>=3.0.0
+python-docx
