@@ -1,0 +1,37 @@
+# ----------------------
+# Python / Backend
+# ----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.env
+venv/
+.env
+.env.local
+.env.*.local
+instance/
+*.log
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ----------------------
+# Node / Frontend
+# ----------------------
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vite/
+.env.local
+.env.*.local
+
+# Optional MacOS
+.DS_Store
